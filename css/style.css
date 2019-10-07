@@ -45,6 +45,10 @@ h6 {
   padding: 0;
 }
 
+ul {
+  list-style-type: none;
+ }
+
 /* Back to top button */
 
 .back-to-top {
@@ -821,12 +825,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 #call-to-action {
   background: #081e5b;
   background-size: cover;
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 #call-to-action .cta-title {
   color: #fff;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
 }
 
