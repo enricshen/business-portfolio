@@ -41,7 +41,7 @@ h5,
 h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
-  margin: 20px 0 20px 0;
+  margin: 15px 0 20px 0;
   padding: 0;
 }
 
@@ -824,7 +824,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #call-to-action {
   background: #00a6ed;
   background-size: cover;
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 #call-to-action .cta-title {
