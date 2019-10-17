@@ -603,13 +603,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px 0 30px 0;
 }
 
-#about .about-img {
-  overflow: hidden;
-}
-
-#about .about-img img {
-  margin-left: -15px;
-  max-width: 100%;
+#about .w-100{
+  max-height: 300px;
 }
 
 #about .content h2 {
@@ -662,6 +657,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     border-radius: 2px;
     transition: 0.5s;
     color: #fff;
+    margin-bottom: 20px;
 }
 /* Services Section
 --------------------------------*/
