@@ -176,7 +176,7 @@ ul {
     /* bottom, image */
     url('../img/intro-carousel/2.jpg');
     background-repeat: no-repeat;
-    background-size: 100% 100%
+    background-size: cover
 
 }
 
