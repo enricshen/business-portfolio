@@ -75,6 +75,20 @@ ul {
   color: #fff;
 }
 
+.btn-info {
+    background: #ff5e5b;
+    border: 2px solid #ff5e5b;
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 2px;
+    transition: 0.5s;
+    color: #fff;
+    margin-bottom: 20px;
+}
 /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
@@ -645,20 +659,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 10px;
 }
 
-#about .btn-projects {
-    background: #ff5e5b;
-    border: 2px solid #ff5e5b;
-    font-family: "Raleway", sans-serif;
-    font-size: 15px;
-    font-weight: bold;
-    letter-spacing: 1px;
-    display: inline-block;
-    padding: 10px 20px;
-    border-radius: 2px;
-    transition: 0.5s;
-    color: #fff;
-    margin-bottom: 20px;
-}
+
 /* Services Section
 --------------------------------*/
 
